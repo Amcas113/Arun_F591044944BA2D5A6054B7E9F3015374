@@ -1,12 +1,26 @@
-def isLeapYear(year):
-  if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
-    return True
-  else:
-    return False
+ccount number, account holder_name, initial_balance-6.0):
 
-year=2013
+self._account number account number self. account holder name account holder_name
 
-if isLeapYear(year):
-  print('{} is a leap year.'.format(year))
+self.__account balance = initial_balance
+
+def deposit(self, amount):
+
+if amount > 0:
+  self.___account_balance += amount
+
+print("Deposited ₹{}. New balance: ₹{}".format(amount,self._account balance))
+
 else:
-  print('{} is not a leap year.'.format(year))
+
+print("Invalid deposit amount. Please deposit a positive amount.")
+def withdraw(self, amount):
+
+if amount > 0 and amount = self._account_balance:
+
+self._account balance == amount
+
+print("Wit
+
+
+self._account ba
